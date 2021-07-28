@@ -1,0 +1,32 @@
+.head-bg{
+    background-color: #FFF9F4;
+}
+.head-text{
+    font-size: 80px;
+    
+}
+.button-design{
+    width: 177px;
+    height: 60px;
+    background-color: #3D4FF3;
+    color: white;
+    border: none;
+    border-radius: 10px;
+
+}
+.head-color{
+    color: #FA804C;
+}
+.head-color2{
+    color: #363958;
+}
+
+/* card  */
+.card-round{
+border-radius: 20px;
+}
+.images-design img{
+    background-color: lightgray;
+    border-radius: 20px;
+    height: 411px;
+}
